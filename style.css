@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 1.2rem;
+}
+
+body {
+  background-color: rgb(214 , 44 , 214);
+  text-align: center;
+}
+
+.colorGray {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+#list-buttons {
+  justify-content: space-evenly;
+  margin: 10px;
+}
+
+input {
+  text-align: center;
+  margin: 5px;
+}
+
+button {
+  font-size: 22px;
+  margin: 5px;
+}
